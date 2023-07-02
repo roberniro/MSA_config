@@ -1,5 +1,5 @@
 jwt:
-  expiration_time: 864000000
+  expiration_time: 864000001
   secret: user_token
 
 gateway:
